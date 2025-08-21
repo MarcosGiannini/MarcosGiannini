@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Hola 👋, soy Marcos Giannini</h1>
+<h3 align="center">Un Desarrollador Frontend de Madrid, España, construyendo puentes entre el código y experiencias de usuario memorables.</h3>
 
-<!--
-**MarcosGiannini/MarcosGiannini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcosgiannini-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:marcogfa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Sobre Mí
+
+Soy un Desarrollador Frontend con más de 9 años de experiencia en el sector tecnológico, donde he tenido la oportunidad de supervisar equipos y liderar proyectos. Recientemente, he completado un Máster para especializarme en el **stack moderno de JavaScript**, que es mi verdadera pasión.
+
+- 🔭 Actualmente estoy colaborando en el proyecto Open Source de **Stack&Flow Design System**.
+- 🌱 Mi objetivo es dominar el workflow de desarrollo asistido por IA con herramientas como **GitHub Copilot** y **Cursor**.
+- 👯 Busco una **posición 100% remota** donde pueda seguir creciendo, aplicando mis nuevas habilidades y aportando mi experiencia.
+- 💬 Hablemos sobre **React, TypeScript, Design Systems, o productividad para desarrolladores**.
+- 📫 Cómo contactarme: **marcogfa@gmail.com**
+
+---
+
+### 🚀 Mi Stack Tecnológico
+
+Aquí están las tecnologías con las que trabajo habitualmente:
+
+<p align="left">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  </a>
+   <a href="https://storybook.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook"/>
+  </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  </a>
+</p>
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+Aquí puedes ver un resumen de mi actividad en la plataforma.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcosGiannini&show_icons=true&locale=es&theme=tokyonight" alt="Estadísticas de GitHub de Marcos Giannini" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcosGiannini&layout=compact&locale=es&theme=tokyonight" alt="Lenguajes más usados por Marcos Giannini" />
+</p>
