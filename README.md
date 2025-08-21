@@ -70,3 +70,17 @@ Aquí puedes ver un resumen de mi actividad en la plataforma.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcosGiannini&layout=compact&locale=es&theme=tokyonight" alt="Lenguajes más usados por Marcos Giannini" />
 </p>
+
+### 🏆 Mis Trofeos de GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MarcosGiannini&theme=tokyonight&row=1&column=7" alt="Trofeos de GitHub de Marcos Giannini" />
+</p>
+
+---
+
+### 👁️ Contador de Visitas
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MarcosGiannini&label=VISITAS+AL+PERFIL&color=blueviolet&style=flat-square" alt="Contador de visitas del perfil" />
+</p>
