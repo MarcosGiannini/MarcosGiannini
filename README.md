@@ -1,5 +1,6 @@
-<h1 align="center">Hola 👋, soy Marcos Giannini</h1>
-<h3 align="center">Un Desarrollador Frontend de Madrid, España, construyendo puentes entre el código y experiencias de usuario memorables.</h3>
+<p align="center">
+  <img src="github-banner.png" alt="Banner de Marcos Giannini"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marcosgiannini-dev" target="_blank">
