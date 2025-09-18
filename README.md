@@ -57,6 +57,9 @@ Aquí están las tecnologías con las que trabajo habitualmente:
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
   </a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+</a>
 </p>
 
 ---
