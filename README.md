@@ -42,6 +42,9 @@ Aquí están las tecnologías con las que trabajo habitualmente:
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   </a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+</a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
   </a>
@@ -57,9 +60,7 @@ Aquí están las tecnologías con las que trabajo habitualmente:
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
   </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-</a>
+
 </p>
 
 ---
