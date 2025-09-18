@@ -9,13 +9,16 @@
   <a href="mailto:marcogfa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  <a href="https://portfolio-pi-vert-12.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"/>
+</a>
 </p>
 
 ---
 
 ### 👨‍💻 Sobre Mí
 
-Soy un Desarrollador Frontend con más de 9 años de experiencia en el sector tecnológico, donde he tenido la oportunidad de supervisar equipos y liderar proyectos. Recientemente, he completado un Máster para especializarme en el **stack moderno de JavaScript**, que es mi verdadera pasión.
+Desarrollador Frontend con una sólida trayectoria de 9 años, especializado recientemente en el ecosistema moderno de JavaScript (React, TypeScript, Redux). Potencio mi productividad con un workflow AI-First usando herramientas como GitHub Copilot y Cursor.
 
 - 🔭 Actualmente estoy colaborando en el proyecto Open Source de **Stack&Flow Design System**.
 - 🌱 Mi objetivo es dominar el workflow de desarrollo asistido por IA con herramientas como **GitHub Copilot** y **Cursor**.
@@ -60,7 +63,12 @@ Aquí están las tecnologías con las que trabajo habitualmente:
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
   </a>
-
+<a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
+</a>
+  <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+</a>
 </p>
 
 ---
