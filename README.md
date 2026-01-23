@@ -9,7 +9,7 @@
   <a href="mailto:marcogfa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://portfolio-pi-vert-12.vercel.app/" target="_blank">
+  <a href="https://marcosgiannini.dev/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"/>
 </a>
 </p>
