@@ -1,30 +1,29 @@
 <p align="center">
-  <img src="github-banner.png" alt="Banner de Marcos Giannini"/>
+  <img src="github-banner.png" alt="Marcos Giannini - Senior Frontend Engineer"/>
 </p>
 
 <p align="center">
+  <a href="https://marcosgiannini.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/marcosgiannini.dev-FFB6C1?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/marcosgiannini-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:marcogfa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://marcosgiannini.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"/>
-</a>
 </p>
 
 ---
 
 ### 👨‍💻 Sobre Mí
 
-Desarrollador Frontend con una sólida trayectoria de 9 años, especializado recientemente en el ecosistema moderno de JavaScript (React, TypeScript, Redux). Potencio mi productividad con un workflow AI-First usando herramientas como GitHub Copilot y Cursor.
+Ingeniero Frontend con **9 años de trayectoria**, especializado en la construcción de interfaces de alta precisión y arquitecturas escalables. Mi enfoque combina la veteranía técnica con la eficiencia de un **workflow AI-First**, integrando herramientas como **Cursor y GitHub Copilot** para maximizar la calidad del código y la velocidad de entrega.
 
-- 🔭 Actualmente estoy colaborando en el proyecto Open Source de **Stack&Flow Design System**.
-- 🌱 Mi objetivo es dominar el workflow de desarrollo asistido por IA con herramientas como **GitHub Copilot** y **Cursor**.
-- 👯 Busco una **posición 100% remota** donde pueda seguir creciendo, aplicando mis nuevas habilidades y aportando mi experiencia.
-- 💬 Hablemos sobre **React, TypeScript, Design Systems, o productividad para desarrolladores**.
-- 📫 Cómo contactarme: **marcogfa@gmail.com**
+- 🏗️ **Liderazgo Técnico:** Actualmente coliderando la arquitectura y evolución del **Stack&Flow Design System**.
+- 🎯 **UI Precision:** Obsesionado con el detalle "Pixel Perfect" y la accesibilidad real (A11y).
+- 🚀 **Remote Advocate:** Aportando valor en equipos distribuidos mediante código limpio, documentación sólida y mentoría.
+- 💬 Hablemos sobre **React, TypeScript, Design Systems o Arquitecturas Frontend**.
 
 ---
 
