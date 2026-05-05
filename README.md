@@ -28,9 +28,8 @@ Todo el trabajo está en **[marcosgiannini.dev](https://marcosgiannini.dev/)**.
 | Proyecto | Stack | Estado |
 |---|---|---|
 | [marcosgiannini.dev](https://marcosgiannini.dev/) | Next.js · Tailwind CSS | 🟢 En producción |
-| **Super Teacher** | Next.js · Supabase · Stripe | 🔵 En desarrollo (privado) |
-| [Lenoy Editorial](https://github.com/MarcosGiannini/lenoy-editorial-web) | Astro · Tailwind CSS | 🟢 Web cultural en producción |
-| [Teacher Starter Kit — Maite](https://github.com/MarcosGiannini/v0-teacher-starter-kit-maite) | v0 · Next.js | 🟢 Público |
+| [Super Teacher](https://github.com/MarcosGiannini/v0-teacher-starter-kit-maite) | Next.js · Supabase · Stripe | 🔵 Web en desarrollo |
+| [Lenoy Editorial](https://github.com/MarcosGiannini/lenoy-editorial-web) | Astro · Tailwind CSS | 🟡 Web cultural en desarrollo |
 
 ---
 
